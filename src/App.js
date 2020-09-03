@@ -76,7 +76,7 @@ function Product(props){
   <div style={productStyle}>
     <h2>Name:{name}</h2>
    <h1>{price}</h1>
-    <button>Buy Now</button>
+    <button>Buy Now </button>
   </div>
   );
 }
